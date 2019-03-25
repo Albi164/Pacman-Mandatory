@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pacman</string>
+    <string name="points">Points:</string>
+    <string name="move_right">Rigth</string>
+    <string name="move_left">Left</string>
+    <string name="move_up">Up</string>
+    <string name="move_down">Down</string>
+    <string name="action_settings">Settings</string>
+    <string name="newgame">New Game</string>
+    <string name="restartGame">Restart Game</string>
+    <string name="textview">Timer</string>
+    <string name="reminding">Time remaining: 60 secs</string>
+</resources>
